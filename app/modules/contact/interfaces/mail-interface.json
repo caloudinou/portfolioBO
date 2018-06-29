@@ -1,0 +1,6 @@
+{
+  "contacts": "Array",
+  "subject": "string",
+  "templateName": "string",
+  "content": "string"
+}
